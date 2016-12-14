@@ -19,7 +19,7 @@ import java.util.Set;
 import java.util.Stack;
 import java.util.TreeMap;
 
-public class homework {
+public class Search{
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br=new BufferedReader(new FileReader("Z:/MS Books/AI/input.txt"));
